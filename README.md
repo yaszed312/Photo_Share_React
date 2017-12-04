@@ -1,1 +1,2 @@
-# This is the repo to show my Photos sharing projecting building on React
+# Photos sharing project
+This is the repo to show my Photos sharing projecting building on React
